@@ -1,4 +1,4 @@
-#Day 2 : 
+#Day 2 
 import requests
 import pandas as pd
 url = requests.get ('https://data.covid19india.org/data.json')
