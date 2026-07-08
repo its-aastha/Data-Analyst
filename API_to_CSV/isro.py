@@ -1,4 +1,4 @@
-#Day 1 : 
+#Day 1   : 
 import requests
 
 url = requests.get('https://isro.vercel.app/api/spacecrafts')
