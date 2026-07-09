@@ -1,3 +1,4 @@
+#day 7 
 import cv2
 video = cv2.VideoCapture(0)
 
