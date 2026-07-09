@@ -5,16 +5,17 @@ from sklearn.linear_model import LinearRegression
 
 data = pd.read_csv('price.csv')
 
-X = data[['area']] #Independent variable
-Y = data['price'] #dependent variable
+X = data[['area']]                      #Independent variable
+Y = data['price']                       #dependent variable
 
 #create and Traing model 
 model = LinearRegression()
-model.fit(X,Y) #Parameters of the linear regression
+model.fit(X,Y)                          #Parameters of the linear regression
 
-predict = model.predict(X) #Prediction of model
+predict = model.predict(X)              #Prediction of model
 
-print('slop :- ', model.coef_[0]) #It store the slop
+print('slop :- ', model.coef_[0])       #It store the slop
+print('intercept :- ',model.intercept_)
 
 new_area = pd.DataFrame([[200]],columns = ['area'])
 price = model.predict(new_area)
