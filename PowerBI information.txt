@@ -1,0 +1,30 @@
+POWER BI --> 
+		power business intelligence
+		
+--data visualization tool
+-- it gave the Report , Visuals -- > power BI
+
+eg :- compony --> 100 stores across India
+
+every evening --> each stores  sends you excel file 
+	-sales
+	-profit
+	-expenses
+	-returns
+	-employees performance
+	
+Q.1 which store is making highest profit ?
+Q.2 which product is selling the most ?
+Q.3 which city has declining sales?
+Q.4 are we meeting the monthly target ??
+
+
+Power BI
+	--data visual so it easy to analyze the data pattern and not consume that much time
+	 --imagine if the Amazon has too much data came within the minutes
+	     like multiple user ordered , return request ,  payments so it is important to visually represent the data
+	 
+Power BI installation 
+	--Microsoft store --> power BI desktop --> install --> restart the system (Recommend)
+	
+	
