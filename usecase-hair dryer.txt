@@ -1,0 +1,24 @@
+USECASE STUDY :
+
+	--Product :- Hair Dryer -->3000
+	-- Company :- Phillips
+	
+	
+Amazon (Any ecommerce)
+--If any price changed by 1 Rupee
+
+	Ahmedabad -- 2750/-
+		based on the behavior :-  the people in Ahmedabad they think 
+		Firstly add to cart and the analysis and after that they ordered
+		so the company based on the analysis CART TIMES the prices are changed
+
+
+	Mumbai --2870/-
+		searching while they are traveling > add to cart > and at the end of the day
+		when they back to home then remove that 
+
+	Bangalore --2920/-
+
+Uber 
+	In the backend there was the algorithm that set the price according to the
+	urgency , and previous analysis 
