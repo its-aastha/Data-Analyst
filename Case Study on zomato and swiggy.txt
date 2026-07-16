@@ -1,0 +1,25 @@
+Food delivery platform  - Zomato, Swiggy
+
+OFFERS     --> Before order
+		--> After order
+		
+food with drink free
+cricket offer
+200 --> 40%
+
+
+1. UI :- swiggy's UI is very clutter , shorted , colors combination
+2. Swiggy 
+	(Offer)
+	order --> after order next time 20% off
+	
+3. Zomato
+	order 
+		--> Scratch coupon like a reward
+		
+
+how to offers are decided :
+	users cart values --> upto 400 to 500 (30,40 upto 80-100)
+	
+	if Lapinoz pizza  800 -1200 BOGO[Buy One Get One free] offers 
+
